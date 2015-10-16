@@ -6,11 +6,16 @@ When updating files, save a copy in case pulling overwrites the file.
 Always git pull before pushing edits.
 
 PROCEDURE:
-cd documents/'file name'
-git pull
-Rectify changes if necessary
-git add 'File Name.docx'
-git commit -m 'Changes made'
-git push
+cd documents/'file name',
+
+git pull,
+
+Rectify changes if necessary,
+
+git add 'File Name.docx',
+
+git commit -m 'Changes made',
+
+git push,
 
 Following this procedure should avoid any problems
